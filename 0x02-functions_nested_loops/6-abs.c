@@ -3,18 +3,18 @@
 /**
  * _abs - computes the absolute value of an integer
  *
- * @int: an integer
+ * @i: an integer
  *
  * Return: absolute value
  */
-int _abs(int)
+int _abs(int i)
 {
-	if (int >= 0)
+	if (i >= 0)
 	{
-		return (int);
+		return (i);
 	}
 	else
 	{
-		return (int * -1);
+		return (i * -1);
 	}
 }
