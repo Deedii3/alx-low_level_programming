@@ -20,7 +20,7 @@ int main(void)
 				if (n < 56)
 				{
 					putchar(44);
-					putchar(38);
+					putchar(32);
 				}
 			}
 		}
